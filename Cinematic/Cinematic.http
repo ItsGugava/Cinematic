@@ -1,0 +1,6 @@
+@Cinematic_HostAddress = http://localhost:5077
+
+GET {{Cinematic_HostAddress}}/
+Accept: application/json
+
+###
